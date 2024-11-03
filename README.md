@@ -1,3 +1,3 @@
 # Documents 📚
 
-This repository contains my public research documents. Click the ⭐ Button if anything comes helpul 😊.
+This repository contains my public research and other miscellaneous documents. Click the ⭐ Button if anything comes helpful 😊.
